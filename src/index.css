@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tech-icon{
+    height: 40px;
+    pointer-events: none;
+    /* rotate: -90deg; */
+  }
+  
+  .ferris-wheel-techs{
+    right: 50%;
+    /* top: 25%; */
+    height: 50%;
+    position: fixed;
+  }
+  
+  .image-parent{
+    /* padding: 50% 0; */
+  }
+  
